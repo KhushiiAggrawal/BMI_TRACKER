@@ -1,12 +1,7 @@
 # BMI_TRACKER
-The BMI Calculator Android app calculates BMI, categorizes weight status, and stores user history using shared preferences for persistent data storage, enabling easy tracking of health progress.
-Title: BMI Calculator: A Health Tracking Android Application
+BMI Calculator: A Health Tracking Android Application
 
-Abstract:
-The BMI Calculator project aims to develop an Android application that assists users in determining their Body Mass Index (BMI) and provides a comprehensive health tracking solution. The application enables users to assess their weight status, whether they are healthy, overweight, or underweight, and allows them to maintain a history of their measurements for easy tracking. By utilizing shared preferences, the application ensures that user data is persistently stored even if the application is closed.
-
-Introduction:
-Maintaining a healthy weight is crucial for overall well-being. The BMI Calculator application provides a user-friendly interface that allows individuals to calculate their BMI and monitor their progress over time. In addition to providing instant feedback on weight status, the application stores user data to enable effective tracking and analysis.
+The BMI Calculator project aims to develop an Android application that assists users in determining their Body Mass Index (BMI) and provides a comprehensive health tracking solution. The application enables users to assess their weight status, whether they are healthy, overweight, or underweight, and allows them to maintain a history of their measurements for easy tracking. By utilizing shared preferences, the application ensures that user data is persistently stored even if the application is closed. Maintaining a healthy weight is crucial for overall well-being. The BMI Calculator application provides a user-friendly interface that allows individuals to calculate their BMI and monitor their progress over time. In addition to providing instant feedback on weight status, the application stores user data to enable effective tracking and analysis.
 
 Features:
 1. BMI Calculation: The application provides a simple and intuitive interface for users to input their height and weight. It calculates the BMI based on these inputs using the formula: BMI = weight(kg) / (height(m))^2.
